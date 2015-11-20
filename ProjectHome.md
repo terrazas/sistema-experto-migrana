@@ -1,0 +1,1 @@
+El-sistema-experto-permite-al-usuario-seleccionar-los-síntomas-y-este-le-emite-su-respectivo-tratamiento.
